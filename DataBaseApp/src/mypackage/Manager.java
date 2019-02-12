@@ -23,7 +23,8 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.ScrollPaneConstants;
 
-import com.mysql.jdbc.CallableStatement;
+import java.sql.*;
+
 
 public class Manager extends JPanel {
 
